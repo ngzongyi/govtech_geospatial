@@ -1,1 +1,0 @@
-# govtech_geospatial
