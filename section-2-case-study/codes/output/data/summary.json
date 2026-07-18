@@ -1,0 +1,58 @@
+{
+  "national_utilisation_2024": 0.7676,
+  "national_utilisation_range": [
+    0.7492,
+    0.894
+  ],
+  "subzones_analysed": 332,
+  "share_subzones_in_deficit_2026": 0.2259,
+  "gap_range_2026": [
+    -1906.5,
+    3072.7
+  ],
+  "n_urgent_deficit_today": 75,
+  "n_emerging_deficit_by_2031": 18,
+  "n_relocation_candidates": 43,
+  "total_additional_centres_needed_2031": 432.0,
+  "total_deficit_2031": 37835.8,
+  "total_surplus_2031": 50510.5,
+  "surplus_to_deficit_ratio_2031": 1.33,
+  "h2_correlation_bto_vs_gap_trend": 0.384,
+  "h2_independent_check_corr_realized_bto_vs_live_full_pct": 0.032,
+  "h1_validation_corr_gap_vs_live_full_pct": 0.035,
+  "participation_rate_assumption": 0.6264,
+  "bto_child_yield_assumption": 0.28,
+  "forecast_years": [
+    2026,
+    2027,
+    2028,
+    2029,
+    2030,
+    2031
+  ],
+  "capacity_per_centre_norm": 100,
+  "top_10_priority_subzones": [
+    "Brickworks",
+    "Tampines North",
+    "Yishun East",
+    "Matilda",
+    "Fernvale",
+    "Plantation",
+    "Lower Seletar",
+    "Waterway East",
+    "Northshore",
+    "Park"
+  ],
+  "subband_masked_subzones_2026": 27,
+  "subband_masked_subzones_2031": 27,
+  "subband_masked_driver_breakdown_2026": {
+    "Older (5-6y) short": 15,
+    "Younger (18mo-4y) short": 7,
+    "Both bands short": 5
+  },
+  "subband_priority_driver_breakdown": {
+    "Mixed -- both bands short": 52,
+    "Younger-band (18mo-4y) driven": 27,
+    "Older-band (5-6y) driven": 14
+  }
+}
